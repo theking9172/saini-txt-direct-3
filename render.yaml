@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: saini-txt-direct
+    name: THE KING 
     plan: free
     env: docker
     dockerfilePath: Dockerfile
